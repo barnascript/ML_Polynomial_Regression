@@ -17,15 +17,22 @@ The dataset contains information about the points scored by sports teams based o
 
 ## Tech Stack
 Language: Python
-Libraries: pandas, numpy, scipy, matplotlib, seaborn, sklearn, statsmodel
+Libraries: 
+* pandas,
+* numpy,
+* scipy,
+* matplotlib,
+* seaborn,
+* sklearn,
+* statsmodel
 
 
 
 ## Approach
-Data Preprocessing
-Outlier removal
-Imputing null values
-Onehot encoding
+* Data Preprocessing
+* Outlier removal
+* Imputing null values
+* Onehot encoding
  
 
 ## Model Building
